@@ -8,7 +8,7 @@ datasets:
 - yigitkucuk/poem-sentimentale-dataset
 ---
 
-# Model Trained Using AutoTrain
+# Poetic-Sentiment
 
 - Problem type: Multi-class Classification
 - Model ID: 3099088026
