@@ -1,6 +1,5 @@
 ---
 tags:
-- autotrain
 - text-classification
 language:
 - en
