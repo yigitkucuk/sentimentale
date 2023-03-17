@@ -44,7 +44,7 @@ model = AutoModelForSequenceClassification.from_pretrained("yigitkucuk/Poem-Sent
 
 tokenizer = AutoTokenizer.from_pretrained("yigitkucuk/poem-sentimentale-dataset", use_auth_token=True)
 
-inputs = tokenizer("I love AutoTrain", return_tensors="pt")
+inputs = tokenizer("Your text here", return_tensors="pt")
 
 outputs = model(**inputs)
 ```
