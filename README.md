@@ -4,5 +4,5 @@ tags:
 language:
 - en
 datasets:
-- yigitkucuk/poem-sentimentale-dataset
+- yigitkucuk/poems-dataset
 ---
